@@ -9,5 +9,5 @@ Implemented swipe to refresh function.
 
 Also added multiple section for various new category.
 
-![alt text]([http://url/to/img.png](https://github.com/MrLakshay/News-Kotlin/blob/master/Screenshots/WhatsApp%20Image%202023-05-24%20at%208.18.26%20PM.jpeg))
+![alt text](relative%20path/Screenshots/WhatsApp Image 2023-05-24 at 8.18.26 PM.jpeg)
 
